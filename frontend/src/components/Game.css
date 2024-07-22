@@ -1,0 +1,15 @@
+.controls {
+  margin: 20px 0;
+}
+
+input {
+  padding: 10px;
+  font-size: 1em;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  margin: 5px;
+}
